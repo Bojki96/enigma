@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596601672157",
+    "project_id": "enigma-c06de",
+    "storage_bucket": "enigma-c06de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596601672157:android:950f4e2395ded6ccf16634",
+        "android_client_info": {
+          "package_name": "com.bdapp.enigma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596601672157-k760259dlfq3v98epefl2lfqgn0g05i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1hodoNM3DBCJ_55zYI0mKZCZcMb8hsN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596601672157-k760259dlfq3v98epefl2lfqgn0g05i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
